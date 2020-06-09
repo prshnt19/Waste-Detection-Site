@@ -10,3 +10,6 @@ local_settings.py
 # Visual Studio
 .vscode/
 
+# DataBase Files
+db.sqlite3
+media/
